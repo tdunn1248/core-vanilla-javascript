@@ -1,5 +1,7 @@
 # Core Vanilla JavaScript - Team Practice - 2
 
+Thomas Dunn - Worked on Solo_study.md 
+
 A marathon of pair exercises in pure javascript that's slightly more challenging than [Team Practice 1](team_practice.md)  
 Capped with a final project.
 It's a good idea to cut your teeth on the [solo_study](solo_study.md) and [Team Practice 1](team_practice.md) first before attempting these challenges.
